@@ -1,0 +1,63 @@
+/* Navbar container */
+nav {
+    background-color: #ff91af; /* Soft pink */
+    padding: 10px 0;
+    text-align: center;
+}
+
+/* Remove list styles if using <ul><li> structure */
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+/* Make the nav items appear in a row */
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+/* Style the links */
+nav a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+/* Hover effect */
+nav a:hover {
+    text-decoration: underline;
+}
+/* Center the image */
+img {
+    display: block;
+    margin: 20px auto; /* This centers horizontally */
+    max-width: 300px; /* Optional: control size */
+    height: auto; /* Keep aspect ratio */
+}
+h1 {
+    text-align: center;
+    font-size: 28px; /* Optional: adjust size */
+    font-weight: bold;
+    margin-top: 20px; /* Add space if needed */
+}
+.productline-page {
+    background-color: #e6f7ff; /* Light blue background just for this page */
+}
+
+.packagingandmarketingideas-page {
+    background-color: #e6f7ff; /* Light blue background just for this page */
+}
+.home-page {
+    background-color: #e6f7ff; /* Light blue background just for this page */
+}
+.ingredients-page {
+    background-color: #e6f7ff; /* Light blue background just for this page */
+}
+
+
+
+
+
